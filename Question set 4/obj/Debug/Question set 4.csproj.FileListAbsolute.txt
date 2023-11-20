@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\Question set 4\Question set 4\bin\Debug\Question set 4.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Question set 4\Question set 4\bin\Debug\Question set 4.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Question set 4\Question set 4\bin\Debug\Question set 4.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Question set 4\Question set 4\obj\Debug\Question set 4.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Question set 4\Question set 4\obj\Debug\Question set 4.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Question set 4\Question set 4\obj\Debug\Question set 4.pdb
